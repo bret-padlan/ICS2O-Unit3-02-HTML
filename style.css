@@ -1,0 +1,13 @@
+div {
+  background-color: MediumSeaGreen;
+  width: 250px; 
+  border: 10px solid orange; 
+  padding: 20px;
+  margin: 15px; 
+}
+table, th, td {
+  border: 6px solid black;
+}
+table {
+  width: 90%;
+}
